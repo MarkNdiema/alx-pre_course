@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #!/bin/bash n echo "school"
+=======
+#!/bin/bash \n echo "School" 
+>>>>>>> e51eb978f0e6c0463bf0c13be1e77a22dd5cd549
