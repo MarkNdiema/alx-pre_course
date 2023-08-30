@@ -2,4 +2,8 @@
 #!/bin/bash n echo "school"
 =======
 #!/bin/bash \n echo "School" 
+<<<<<<< HEAD
 >>>>>>> 9261bd88793c4fd3462c577aacef68d90afb15ea
+=======
+>>>>>>> 05dece56b8e308b5e96ece81b925b231d1d5d951
+>>>>>>> c43e53c794ad612c513874a93dfbb7825f581e9b
